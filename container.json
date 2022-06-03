@@ -1,6 +1,6 @@
 {
 	"redirectUrl": "http://google.com",
-	"lottieUrl": "http://192.168.1.134/android.json",
+	"lottieUrl": "https://raw.githubusercontent.com/beaver1234567/ads/master/android.json",
 	"fullscreen": false,
 	"repeated": false,
 	"reverse": false
