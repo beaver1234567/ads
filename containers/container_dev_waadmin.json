@@ -2,7 +2,7 @@
 	"redirectUrl": "http://google.com",
 	"lottieUrl": "https://raw.githubusercontent.com/beaver1234567/ads/master/com.trackerapp.waadmin/waadmin.json",
 	"fullscreen": true,
-	"background": 16646141,
+	"backgroundColor": 16646141,
 	"repeated": false,
 	"reverse": false
 }
